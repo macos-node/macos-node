@@ -1,1 +1,1 @@
-`upleb`
+`upleb': 'http://macos-node.github.io/`
